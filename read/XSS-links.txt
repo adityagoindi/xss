@@ -1,0 +1,1 @@
+The 12 Exploits of XSS-mas ->  https://chefsecure.com/blog/the-12-exploits-of-xss-mas-infographic  |  https://www.youtube.com/watch?v=d84SP5r6n9c
